@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "string": "cpp",
+        "*.ipp": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp",
+        "utility": "cpp",
+        "*.txx": "cpp"
+    }
+}
